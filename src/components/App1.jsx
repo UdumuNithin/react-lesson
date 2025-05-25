@@ -1,5 +1,5 @@
 import "./App1.css";
-import Product from "./product";
+import Product from "./Product";
 import Variant from "./Variant";
 import Calc from "./Calc";
 

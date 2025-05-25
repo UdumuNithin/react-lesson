@@ -1,5 +1,5 @@
 import "./App2.css";
-import Product from "./product";
+import Product from "./Product";
 
 export default function App2() {
   const products = [
